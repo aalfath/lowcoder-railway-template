@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/lowcoder-1?utm_medium=integration&utm_source=button&utm_campaign=lowcoder)
+
 # Lowcoder on Railway
 
 A Railway template for [Lowcoder](https://github.com/lowcoder-org/lowcoder), the open-source low-code platform for internal tools, admin panels, dashboards and customer-facing apps (an alternative to Retool, Appsmith and Tooljet).
